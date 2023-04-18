@@ -1,7 +1,41 @@
-# theologyOnGit
-Theology and Apologetics Compilation on Git
+= Motivation
 
-## Licensing
+To address some questions and discuss theology, one needs to grapple
+with the aspect of Genesis and to what extent it is to be interpreted
+literally. 
+
+Especially old earth vs young earth creationism, or even gap
+creationism, from creation to flood in Genesis. There are several other
+issues, such as where the Tanakh came from and whether it is divinely 
+inspired and inerrant. I cannot focus on them all, the fields of study
+are too wide to cover in detail. Each field of study alone takes a full
+lifetime to be an expert.
+
+I do want to focus on fields that interest me, and explore criticism
+of creationism and intelligent design found in literature. Work
+by Penncock #cite("pennock2003creationism") is one classic example of
+common criticisms of intelligent design being advocated in the classroom.
+
+== Disclaimer
+
+I am a christian, so I will be biased. I also did my
+degrees in chemical and nuclear engineering. So biology, geology
+and history are not my main fields of study. I am not an expert.
+In areas of radioactive dating, I have of course studied radioactive
+decay in bits of upper level undergraduate coursework. But, 
+radioactive dating is not my expertise either.
+But I am exploring ideas found in scientific literature, and thinking
+about them.
+
+== Contents
+
+This repository will contain documents written in typst and LaTeX.
+Sometimes, math will be done in code, and there may be a mixture
+of other codes as well. All of codes and content are licensed under
+GNU General Public License 3.
+
+
+== Licensing
 
 ```
 
@@ -680,3 +714,7 @@ the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 ```
+
+
+#bibliography("bibliography/readme.bib",
+    style: "chicago-author-date")
