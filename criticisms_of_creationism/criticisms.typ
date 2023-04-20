@@ -19,12 +19,11 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ```
-
 = Introduction
 
 We first look at some common criticisms of creationism. One classic
-work is done by Penncock @pennock2003creationism . At the time of publishing,
-Penncock was at the Lymann Briggs School and Department of Philosophy,
+work is done by Pennock @pennock2003creationism . At the time of publishing,
+Pennock was at the Lymann Briggs School and Department of Philosophy,
 Michigan State University according to the publication. The document
 is more of a manifesto laying out strategies for scientists to defend
 good science, which is in his work, defined as the theory of evolution.
@@ -32,7 +31,7 @@ good science, which is in his work, defined as the theory of evolution.
 
 == Criticism 1: Creationists use Argument from Ignorance
 
-Penncock states that creationists use "argument from ignorance".
+Pennock states that creationists use "argument from ignorance".
 Argument from ignorance is a classic logical fallacy where
 a person thinks A is true because of the lack of visible
 evidence that contradicts A @walton2010arguments . Walton
@@ -67,6 +66,11 @@ agree with these axioms @lennox2009god.
 Though of course, the axioms themselves are not universally agreed
 upon. Beauty is subjective and potentially another philosophical 
 can of worms altogether. We shall not discuss it yet.
+
+Okay, we'll leave it here for now, there are other matters to explore.
+I'll probably come back to this later (TBD).
+
+
 
 
 
