@@ -169,14 +169,106 @@ at first improved function will routinely become essential
 parts of a pathway. So the gradual evolution of irreducibly complex
 systems is not only possible, it's expected" #cite("orr2005darwin"). 
 
+=== On Mutations by Herman J Muller
+
 Now, I'll be interested to go down the rabbit hole of H. J. Muller.
 This was what I was looking for. Probably come back here and
 write more. A good place to start is one of Muller's most well quoted
 papers "The relation of recombination to mutational advance"
 #cite("muller1964relation"). 
 
-To be Continued... I'm taking a break tonight...
+Now I'm not quite able to find Muller's original papers. But from
+a quick internet search, he was awarded a nobel prize for his work
+in inducing genetic mutations with the use of X-rays (ionising 
+radiation). I'm not a heatlh physics person, but of course, 
+ionising radiation is what I'm meant to know professionally. One
+possible candidate for the 1938 paper Orr talks about is Muller's work
+on Radium titled "Report on investigation with Radium". 
+#cite("muller1939report") I currently am not able to find this
+report at the time of writing. So I have very little to go on.
 
+Another report is on 1928, where Muller talks about producing
+mutations with X-rays. #cite("muller1928production"). Don't
+know if this is that relevant, but good to read for background 
+anyhow. He basically states that when he blasted X-rays at fruit flies,
+and then have then mate with non irradiated fruit flies, the offspring
+of these flies (he refers to them as crosses) have a higher mortality
+rate than those of the control fruit flies. He refers to the mortalities
+as "lethal mutations". It's a little frustrating as I don't see
+a methods section here indicating the rate and dose of exposure. 
+Such information is meant to be bread and butter for any piece of
+scientific literature. This is not the best of quality due to
+the lack of materials and methods. But to be fair, hindsight is 20/20,
+and he published his papers in the 1920s, so we can't be too harsh on
+him. Nevertheless, you can't really repeat experiments here without
+those pieces of information.
+
+Presence of such poor quality papers would probably have been higher
+in those days. 
+But anyhow, let's see his thought process. He has pretty much
+established
+
+==== Mutations Require Irreducibly Complex Reproduction Mechanisms to be Expressed
+
+By the way, a thought came to mind, genetic mutation usually
+happens when genes are passed down from one generation to the next.
+During these times, the genes of the child are a recombined form
+of the parent's genes. (I hope I got it right, correct me if I'm 
+wrong). For this to happen, sexual reproduction or asexual reproduction
+is necessary. For multicelled organisms, the cells must be
+able to undergo mitosis as well!
+Without this reproduction, the genes will not be
+passed down. Even if they are passed within the same generation via
+viruses or some other means, the genes will not be passed down if
+the organisms, single celled or otherwise, reproduce. Therefore,
+the capability to reproduce, sexually or asexually
+seems quite essential to the process of evolution. This is because
+even if genetic mutation occurs within an organism when it is
+alive, the organism will eventually die. If it dies, that genetic
+information is lost. I must say that for mutation to occur and
+for those genes to be passed down from generation to generation,
+the capability for reproduction is a prerequisite. And reproduction,
+in any of its forms, could be said to be an irreducibly complex 
+mechanism. 
+
+And the fact is that, for mutations to be expressed within the cell,
+the prerequisite is that genes must be expressed. For that to happen,
+there is also an irreducibly complex process. Today, we see that
+as there are complex proteins and enzymes which help this process.
+The transcription factors help to transcribe the information
+within DNA to mRNA. And the mRNA is meant to go to the ribosome
+to be translated into a protein. For any of these processes to happen,
+the cell usually needs some source of energy. Adenosine Triphosphate
+(ATP). Today, that ATP is produced in the mitochondria. In a supposed
+prehistoric cell, perhaps the chemicals were different. However,
+the basic functions of genetic transcription must be there. For that
+to occur, the cellular machinery and the chemical energy to power
+that machinery must be present. Where does the energy come from?
+There must be some other system in place to collect this energy
+and convert this into energy carrying molecules. All of these
+systems are strictly necessary for evolution to even start its
+course for mutation over (supposedly) billions of years.
+
+Now perhaps, I'm mistaken and I need to be corrected 
+somewhere. So I'll just hold this thought for now and read more 
+literature.
+
+
+=== back to Muller
+
+In muller's 1928 paper
+#cite("muller1928production"), 
+he describes how X-rays cause abberations in
+fruit flies (Drosophila) and generalises the mutation effect of
+X-rays to other organisms other than fruit flies based on the works
+of other researchers. Also, he concludes that radiation from Radium
+(which we know today as an alpha and beta emitter), can also cause
+mutation. These are perhaps things we take for granted. 
+
+He also mentioned mendelian genes. What are meneldian genes?
+I'll have to look further.
+
+Anyway I shall sleep for now...
 
 #bibliography("library.bib",
     style: "chicago-author-date")
