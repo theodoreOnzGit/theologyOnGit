@@ -304,9 +304,59 @@ is another rabbit hole I cannot explore for now.
 More about Mendel, he describes laws of inheritance. One of 
 these laws is the law of random assortment #cite("davey2003mendelian"). 
 Mendel's original paper is called experiments in plant 
-hybridisation #cite("mendel1996experiments"). This was the paper i was
+hybridisation #cite("mendel1996experiments"). This was the paper I was
 looking for when I wanted to understand more about Mendel's laws
 and experiments.
+
+So, Mendel had this paper about plant hybridisation. The particular 
+paper I'm reading pertains to a translated version 
+#cite("mendel1996experiments")from German, since Gregor Mendel 
+was indeed German speaking. Several corrections have been made since
+the first translation in 1901 by Baeston #cite("mendel1996experiments"). 
+I will assume the translations are reasonably accurate and reliable.
+
+It is noteworthy that Mendel did his studies on plants when doing
+"plant hybridisation" experiments, or breeding of plant types. 
+Mendel highlights in his methods
+section that experiments were carefully done to exclude extraneous
+(irrelevant) circumstances such as unintended cross pollination from
+other plant species. Mendel also notes that cross breeding does
+inevitably result in some plants being sterile which can frustrate
+experiments. However, he notes that "all members of the series
+developed in each successive generations should be, without
+exception, subjected to observation". #cite("mendel1996experiments")
+
+The language is difficult to say the least, but my working understanding
+is that the plants are all subject to observation regardless of 
+the sterility or reduced fertility.
+
+Mendel notes in his experiment that "only the most vigorous plants
+were chosen for his fertilisation experiments" as the weaker
+plants "afford uncertain results #cite("mendel1996experiments").
+By that he means that many of the "weakly" plants fail to flower
+or produce inferior seeds #cite("mendel1996experiments").
+
+Mendel uses a large number of plants in his experiments to deduce
+the statistical ratio of 3:1. 253 hybrids and 7324 seeds produced
+a phenotype of 5474 round or roundish seeds, 1850 angular or wrinkled
+seeds. (ratio 2.96:1)
+258 plants yielded 8023 seeds of which 6022 were yellow, 
+2001 were green. (ratio of 3.01:1). This is quite impressive detective
+work, it is very thorough and statistically significant. 
+#cite("mendel1996experiments")
+
+From these statistics, he comes up with a mathematical model of sorts
+to describe the propagation of these recessive and dominant genes
+and their resultant phenotypes. #cite("mendel1996experiments") 
+The mathematical model rests on the assumption that the way 
+reproductive cells recombine to form a new zygote (seed)
+is quite probabilistic. 
+
+But yes, reading Mendel's experiments of peas is a little dry. But it 
+is a fundamentally useful model to describe inheritance, and quite
+impressive for someone in the 1800s to write. It seems he has done
+his homework quite well. I'll probably continue another time.
+
 
 
 Anyway I shall sleep for now...
