@@ -95,7 +95,7 @@ reviews? And how did you come up with three billion years? Where are
 your error bars? And what is the mathematical model used
 to come up with this timeframe?
 I need to see how you came up with those numbers.
-Probability in abiogensis is as much a big black box if you don't
+Probability in abiogenesis is as much a big black box if you don't
 quantify how it happened. Looks like I'll need to search more 
 literature here.
 
@@ -265,8 +265,49 @@ of other researchers. Also, he concludes that radiation from Radium
 (which we know today as an alpha and beta emitter), can also cause
 mutation. These are perhaps things we take for granted. 
 
-He also mentioned mendelian genes. What are meneldian genes?
+==== a little about Mendelian Genetics
+
+He also mentioned Mendelian genes. What are meneldian genes?
 I'll have to look further.
+Let's start from the review paper, "the genetic basis of Mendelian
+phenotypes: Discoveries, Challenges and Opportunities" 
+#cite("chong2015genetic"). We'll need to get used 
+to some of the jargon used just in the abstract.
+
+1. phenotypes
+2. genotypes
+
+Johannsen calls the genotype "sum total of all the genes" in a 
+zygote (or embryo) #cite("johannsen1911genotype"). Whereas the
+phenotype describes the different organisms distinguishable 
+by observable characteristics #cite("johannsen1911genotype"). 
+For example, a human is a different phenotype from a bear. 
+From person to person within the same human race, two siblings
+will have different phenotypes because they have different
+characteristics which are observable. 
+
+Mendelian genetics says that the sum total of all
+genes of a living organism 
+(genotypes) will cause the different observable characteristics
+(phenotypes) between organisms. I guess phenotypes and phenomenon
+have a similar root word, in that they refer to observable facts.
+So one key idea of Mendelian genetics is that genotype determines 
+phenotype. 
+
+Anyhow, Chong et al's paper #cite("chong2015genetic") has its focus
+more about mapping the human genome and using that knowledge to treat
+disease. It is more focused on clinical advances and understanding
+"the genetic basis for inherited disease" #cite("chong2015genetic").
+Not much is said here with regards to origin, and genetic disease
+is another rabbit hole I cannot explore for now.
+
+More about Mendel, he describes laws of inheritance. One of 
+these laws is the law of random assortment #cite("davey2003mendelian"). 
+Mendel's original paper is called experiments in plant 
+hybridisation #cite("mendel1996experiments"). This was the paper i was
+looking for when I wanted to understand more about Mendel's laws
+and experiments.
+
 
 Anyway I shall sleep for now...
 
