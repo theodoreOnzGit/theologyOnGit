@@ -15,6 +15,9 @@ I do want to focus on fields that interest me, and explore criticism
 of creationism and intelligent design found in literature. Work
 by Penncock #cite("pennock2003creationism") is one classic example of
 common criticisms of intelligent design being advocated in the classroom.
+Of course, the version of evolution espoused in Neo-Darwinism is 
+debatable in literature #cite("brown2022neo") and it would also be 
+interesting to take a look at peer reviewed arguments as well.
 
 == Disclaimer
 
