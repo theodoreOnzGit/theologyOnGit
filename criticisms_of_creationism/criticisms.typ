@@ -76,7 +76,7 @@ Pennock writes that writers such as Behe developed a concept
 of irreducible complexity, and how Behe's arguments were refuted
 when Biologist Allen Orr showed that a Darwinian mechanisms could
 have indeed produced such systems. The paper is titled Darwin v.
-Intelligent Design (Again) #cite("orr2005darwin").
+Intelligent Design (Again) @orr2005darwin
 
 This was published in the Boston Review, A political and literary
 forum as originally cited by Pennock, or in Think Autumn in Cambridge
@@ -88,7 +88,7 @@ Now in Orr's writing, he essentially quotes that "evolutionists
 all know that from the time the earth formed, it took three
 billion years to evolve the first true cell but only half
 as long to get human beings from this cell". 
-#cite("orr2005darwin")
+@orr2005darwin
 The claims here are quite
 vague. What is the mechanism and chemistry? Where are the peer
 reviews? And how did you come up with three billion years? Where are
@@ -110,7 +110,7 @@ the examples that air bladders evolved into lungs. So while
 lungs are extremely complex in that having one part fail
 would shut the whole thing down, they could have evolved via 
 Darwinian mechanism. 
-#cite("orr2005darwin")
+@orr2005darwin
 Orr then goes on writing that this scenario is not hypothetical
 and he uses the experience of computer programmers.
 
@@ -119,7 +119,7 @@ code one stage at a time. Each line of code does one job, but
 as the programmer makes changes, he or she is able to iteratively
 improve the program until the final piece of software does a
 more complex job, where all lines of code are needed.
-#cite("orr2005darwin")
+@orr2005darwin
 
 I find it amusing however, that he would use a programming analogy,
 given that program development requires many many steps of intelligent
@@ -167,7 +167,7 @@ the arguments.
 Orr quotes H. J. Muller's work in 1918 and 1939 "that genes that
 at first improved function will routinely become essential
 parts of a pathway. So the gradual evolution of irreducibly complex
-systems is not only possible, it's expected" #cite("orr2005darwin"). 
+systems is not only possible, it's expected" @orr2005darwin. 
 
 === On Mutations by Herman J Muller
 
@@ -175,7 +175,7 @@ Now, I'll be interested to go down the rabbit hole of H. J. Muller.
 This was what I was looking for. Probably come back here and
 write more. A good place to start is one of Muller's most well quoted
 papers "The relation of recombination to mutational advance"
-#cite("muller1964relation"). 
+@muller1964relation . 
 
 Now I'm not quite able to find Muller's original papers. But from
 a quick internet search, he was awarded a nobel prize for his work
@@ -184,11 +184,11 @@ radiation). I'm not a heatlh physics person, but of course,
 ionising radiation is what I'm meant to know professionally. One
 possible candidate for the 1938 paper Orr talks about is Muller's work
 on Radium titled "Report on investigation with Radium". 
-#cite("muller1939report") I currently am not able to find this
+@muller1939report  I currently am not able to find this
 report at the time of writing. So I have very little to go on.
 
 Another report is on 1928, where Muller talks about producing
-mutations with X-rays. #cite("muller1928production"). Don't
+mutations with X-rays. @muller1928production . Don't
 know if this is that relevant, but good to read for background 
 anyhow. He basically states that when he blasted X-rays at fruit flies,
 and then have then mate with non irradiated fruit flies, the offspring
@@ -257,7 +257,7 @@ literature.
 === back to Muller
 
 In muller's 1928 paper
-#cite("muller1928production"), 
+@muller1928production , 
 he describes how X-rays cause abberations in
 fruit flies (Drosophila) and generalises the mutation effect of
 X-rays to other organisms other than fruit flies based on the works
@@ -271,16 +271,16 @@ He also mentioned Mendelian genes. What are meneldian genes?
 I'll have to look further.
 Let's start from the review paper, "the genetic basis of Mendelian
 phenotypes: Discoveries, Challenges and Opportunities" 
-#cite("chong2015genetic"). We'll need to get used 
+@chong2015genetic . We'll need to get used 
 to some of the jargon used just in the abstract.
 
 1. phenotypes
 2. genotypes
 
 Johannsen calls the genotype "sum total of all the genes" in a 
-zygote (or embryo) #cite("johannsen1911genotype"). Whereas the
+zygote (or embryo) @johannsen1911genotype . Whereas the
 phenotype describes the different organisms distinguishable 
-by observable characteristics #cite("johannsen1911genotype"). 
+by observable characteristics @johannsen1911genotype . 
 For example, a human is a different phenotype from a bear. 
 From person to person within the same human race, two siblings
 will have different phenotypes because they have different
@@ -294,25 +294,25 @@ have a similar root word, in that they refer to observable facts.
 So one key idea of Mendelian genetics is that genotype determines 
 phenotype. 
 
-Anyhow, Chong et al's paper #cite("chong2015genetic") has its focus
+Anyhow, Chong et al's paper @chong2015genetic  has its focus
 more about mapping the human genome and using that knowledge to treat
 disease. It is more focused on clinical advances and understanding
-"the genetic basis for inherited disease" #cite("chong2015genetic").
+"the genetic basis for inherited disease" @chong2015genetic .
 Not much is said here with regards to origin, and genetic disease
 is another rabbit hole I cannot explore for now.
 
 More about Mendel, he describes laws of inheritance. One of 
-these laws is the law of random assortment #cite("davey2003mendelian"). 
+these laws is the law of random assortment @davey2003mendelian . 
 Mendel's original paper is called experiments in plant 
-hybridisation #cite("mendel1996experiments"). This was the paper I was
+hybridisation @mendel1996experiments . This was the paper I was
 looking for when I wanted to understand more about Mendel's laws
 and experiments.
 
 So, Mendel had this paper about plant hybridisation. The particular 
 paper I'm reading pertains to a translated version 
-#cite("mendel1996experiments")from German, since Gregor Mendel 
+@mendel1996experiments from German, since Gregor Mendel 
 was indeed German speaking. Several corrections have been made since
-the first translation in 1901 by Baeston #cite("mendel1996experiments"). 
+the first translation in 1901 by Baeston @mendel1996experiments . 
 I will assume the translations are reasonably accurate and reliable.
 
 It is noteworthy that Mendel did his studies on plants when doing
@@ -324,7 +324,7 @@ other plant species. Mendel also notes that cross breeding does
 inevitably result in some plants being sterile which can frustrate
 experiments. However, he notes that "all members of the series
 developed in each successive generations should be, without
-exception, subjected to observation". #cite("mendel1996experiments")
+exception, subjected to observation". @mendel1996experiments 
 
 The language is difficult to say the least, but my working understanding
 is that the plants are all subject to observation regardless of 
@@ -332,9 +332,9 @@ the sterility or reduced fertility.
 
 Mendel notes in his experiment that "only the most vigorous plants
 were chosen for his fertilisation experiments" as the weaker
-plants "afford uncertain results #cite("mendel1996experiments").
+plants "afford uncertain results @mendel1996experiments .
 By that he means that many of the "weakly" plants fail to flower
-or produce inferior seeds #cite("mendel1996experiments").
+or produce inferior seeds @mendel1996experiments .
 
 Mendel uses a large number of plants in his experiments to deduce
 the statistical ratio of 3:1. 253 hybrids and 7324 seeds produced
@@ -343,11 +343,11 @@ seeds. (ratio 2.96:1)
 258 plants yielded 8023 seeds of which 6022 were yellow, 
 2001 were green. (ratio of 3.01:1). This is quite impressive detective
 work, it is very thorough and statistically significant. 
-#cite("mendel1996experiments")
+@mendel1996experiments 
 
 From these statistics, he comes up with a mathematical model of sorts
 to describe the propagation of these recessive and dominant genes
-and their resultant phenotypes. #cite("mendel1996experiments") 
+and their resultant phenotypes. @mendel1996experiments  
 The mathematical model rests on the assumption that the way 
 reproductive cells recombine to form a new zygote (seed)
 is quite probabilistic. 
