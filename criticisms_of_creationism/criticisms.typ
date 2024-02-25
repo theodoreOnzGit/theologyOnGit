@@ -358,8 +358,17 @@ impressive for someone in the 1800s to write. It seems he has done
 his homework quite well. I'll probably continue another time.
 
 
+=== Notes resuming 25 feb 2024 punctuational evolution
 
-Anyway I shall sleep for now...
+Now, I'm back to writing. To reiterate, there is this notion that there 
+is irreducible complexity, therefore Darwinian evolution cannot explain it. But 
+that claim was contentious. One paper on this topic is that discussing 
+evolutionary "bursts" and gradual evolution. The evolutionary bursts 
+are known as punctuational bursts @venditti2008speciation. There is 
+acknowledgement of these "punctuational bursts" of evolution in the 
+paper @venditti2008speciation. But I've yet to read more of this.
+
+That's it for today.
 
 #bibliography("library.bib",
     style: "chicago-author-date")
