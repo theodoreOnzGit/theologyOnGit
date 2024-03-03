@@ -366,9 +366,33 @@ that claim was contentious. One paper on this topic is that discussing
 evolutionary "bursts" and gradual evolution. The evolutionary bursts 
 are known as punctuational bursts @venditti2008speciation. There is 
 acknowledgement of these "punctuational bursts" of evolution in the 
-paper @venditti2008speciation. But I've yet to read more of this.
+paper @venditti2008speciation. 
 
-That's it for today.
+The fuller theories trying to explain this punctuational bursts are better
+described in "Punctuated Equilibrium" and "Punctuated Evolution" 
+@o2023punctuated. O Brien goes through in detail the problems of a 
+squaring the fossil record with gradual evolution in part two of his 
+paper @o2023punctuated. 
+
+O Brien writes that to reconcile the missing fossil records with Darwinian 
+Evolution, one had to either assume the fossil record was incomplete, or 
+else found a new theoretical alternative, Punctuated Equilibrium 
+(abbreviated PE in the paper) @o2023punctuated. Punctuated Equilibrium 
+postulates that evolution be split into two parts: macroevolution and 
+microevolution. Microevolution more closely resembles Darwinian 
+evolution whereas macroevolution is meant to explain large changes 
+in species in short times. Punctuated Equilibrium postulates that 
+rather than microevolution being responsible for different species,
+macroevolution is more responsible @o2023punctuated. In Punctuated
+Equilibrium, Eldredge and Gould postulated that macroevolution is more 
+than repeated rounds of microevolution @o2023punctuated.
+
+What then is macroevolution? Can we observe it like microevolution? 
+And what is its mechanism?
+
+
+That's it for today, will have to do a more in depth look into macroevolution 
+next time.
 
 #bibliography("library.bib",
     style: "chicago-author-date")
