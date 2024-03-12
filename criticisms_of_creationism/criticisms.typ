@@ -388,11 +388,53 @@ Equilibrium, Eldredge and Gould postulated that macroevolution is more
 than repeated rounds of microevolution @o2023punctuated.
 
 What then is macroevolution? Can we observe it like microevolution? 
-And what is its mechanism?
+And what is its mechanism? 
+
+A good reference to look at is Mayr's short paper on speciation and 
+macroevolution @mayr1982speciation. He quotes the traditional Darwinian
+view saying:
+
+"The students of speciation, and more
+broadly the neontologists as a whole, accepted as 
+an article of faith not only that
+all macroevolutionary phenomena were
+consistent with the laws of genetics but
+also that they could be explained in terms
+of the phenomena of geographic variation
+and speciation"
+
+It's quite interesting he admits that the observed macroevolutionary 
+phenomena is taken by faith to be consistent with laws of genetics.
+But Mayr remained opposed to sudden, abrupt genetic change, a.k.a 
+saltation @mayr1982speciation. He goes on to offer some explanations 
+to macroevolution, at least from the perspective of speciation.
+
+Firstly, allopartic (geographically differentiated) speciation
+@mayr1982speciation. This is where a same 
+animal species is separated geographically, such that there are two 
+distinct populations of animals in different environments where they 
+are not allowed to mix genetically. As a result, two different species 
+emerge.
+
+Second, sympartic (geographically similar) speciation where genetic
+isolation occurs within a single gene pool (deme) @mayr1982speciation.
+Mayr thinks this could happen but does not think it contributed significantly 
+to explain macroevolution @mayr1982speciation. 
+
+Thirdly, stasipartic (geographically similar and not genetically 
+isolated) speciation. Mayr does not seem to think this is plausible 
+@mayr1982speciation.
+
+Fourthly, parapartic (geographically neigbouring) speciation. Similar 
+to stasipartic speciation, Mayr does not seem to think this theory has 
+sufficient evidence @mayr1982speciation.
+
+In discussing these alternate theories, Mayr thinks that allopartic 
+speciation is the most plausible of them all and focuses on it 
+@mayr1982speciation.
 
 
-That's it for today, will have to do a more in depth look into macroevolution 
-next time.
 
+That's it for today, 
 #bibliography("library.bib",
     style: "chicago-author-date")
